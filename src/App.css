@@ -1,0 +1,21 @@
+.App {
+  display: flex;
+  box-sizing: border-box;
+  align-items: center;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  color: aliceblue;
+  background-color: rgba(40, 40, 103, 0.661);
+  overflow: hidden;
+}
+.Header {
+  background-color: rgba(28, 28, 66, 0.766);
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 20px;
+  text-decoration: underline;
+  width: 100%;
+  display: flex;
+}
